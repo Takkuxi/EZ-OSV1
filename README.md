@@ -20,6 +20,8 @@ https://windows-85.github.io/
 
 @miki1513 Another helper for creation
 
+https://discord.gg/ns29qCePqC
+
 https://github.com/miki1513
 
 miki1513.github.io/GamesOS/
