@@ -24,4 +24,4 @@ https://discord.gg/ns29qCePqC
 
 https://github.com/miki1513
 
-miki1513.github.io/GamesOS/
+https://miki1513.github.io/GamesOS/
