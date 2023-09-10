@@ -1,6 +1,6 @@
 # EZ-OSV1
 
-this is an os.. but in your browser...
+this is an os (operating system).. but in your browser...
 
 # COLABORATORS:
 
@@ -18,7 +18,7 @@ https://github.com/windows-85
 
 https://windows-85.github.io/
 
-@miki1513 Another helper for creation
+@miki1513 Another helper for creation (he likes doing commits)
 
 https://discord.gg/ns29qCePqC
 
