@@ -1,3 +1,4 @@
+console.log("Loaded scripts.js")
 const startButton = document.getElementById("startButton");
 const startMenu = document.getElementById("startMenu");
 
