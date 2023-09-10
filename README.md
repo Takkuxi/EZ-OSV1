@@ -2,7 +2,7 @@
 
 this is an os (operating system).. but in your browser...
 
-# COLABORATORS:
+# COLLABORATORS:
 
 @KillerzTheDev Creator and principal bot dev...
 
