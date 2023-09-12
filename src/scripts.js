@@ -1,4 +1,4 @@
-console.log("Loaded scripts.js")
+console.log("Loaded scripts.js! Currently, server online")
 const startButton = document.getElementById("startButton");
 const startMenu = document.getElementById("startMenu");
 
