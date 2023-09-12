@@ -18,6 +18,10 @@ https://github.com/windows-85
 
 https://windows-85.github.io/
 
+https://windows85.neocities.org
+
+https://windows-85.neocities.org
+
 @miki1513 Another helper for creation (he likes doing commits)
 
 https://discord.gg/ns29qCePqC
