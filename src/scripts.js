@@ -1,6 +1,7 @@
 console.log("Loaded scripts.js! Currently, server online 24/7 thanks to GitHub Pages!")
 const startButton = document.getElementById("startButton");
 const startMenu = document.getElementById("startMenu");
+const GreetToConslle = console.log("Hi there!");
 
 startButton.addEventListener("click", () => {
     startMenu.style.display = startMenu.style.display === "block" ? "none" : "block";
