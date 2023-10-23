@@ -12,7 +12,7 @@
 }
 .tskbar {
     color: white;
-    text-align: center;
+    text-align: left;
     align-content: space-evenly;
     position: fixed;
     bottom: 0;
